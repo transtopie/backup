@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /app/
-Disallow: /j/
-Allow: /app/module/webproduct/goto/
-Allow: /app/download/
+Disallow: /
+Disallow: /backup/
 Sitemap: https://www.transtopie.fr/sitemap.xml
